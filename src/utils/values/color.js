@@ -1,0 +1,75 @@
+export const Oranges={
+    Orange_1:'#ffa15c',
+    Orange_2:'#ff9747',
+    Orange_3:'#ff8d31',
+    Orange_4:'#ff841b',
+    Orange_5:'#ff7c06',
+};
+
+export const lightMode={
+    text:'#081B33',
+    background:'#ffffff',
+    blue_0:"#42A5F5",
+    blue_1:"#42A5F5",
+    blue_2:"#2196F3",
+    blue_3:"#1E88E5",
+    blue_mid:"#0277BD",
+    blue_4:"#297a98",
+    blue_5:"#016b91",
+    blue_6:"#005583",
+    blue_7:"#00376d",
+    blue_8:"#002b5a",
+    blue_main:"#0c3f7d",
+};
+
+export const darkBlueMode={
+    text:'#ffffff',
+    background:'#152642',
+    blue_0:"#81D4FA",
+    blue_1:"#81D4FA",
+    blue_2:"#4FC3F7",
+    blue_3:"#29B6F6",
+    blue_mid:"#ffffff",
+    blue_4:"#297a98",
+    blue_5:"#016b91",
+    blue_6:"#005583",
+    blue_7:"#00376d",
+    blue_8:"#002b5a",
+    blue_main:"#0c3f7d",
+};
+
+export const darkNormalMode={
+    text:'#ffffff',
+    background:'#2F4562',
+    blue_0:"#ffffff",
+    blue_1:"#ffffff",
+    blue_2:"#ffffff",
+    blue_3:"#ffffff",
+    blue_mid:"#ffffff",
+    blue_4:"#297a98",
+    blue_5:"#016b91",
+    blue_6:"#005583",
+    blue_7:"#00376d",
+    blue_8:"#002b5a",
+    blue_main:"#0c3f7d",
+};
+
+export const Task_Colors={
+    task_warning_light:"#ffbb33",
+    task_warning_dark:"#FF8800",
+    task_danger_light:"#ff4444",
+    task_danger_dark:"#CC0000",
+    task_success_light:"#00C851",
+    task_success_dark:"#007E33",
+    task_info_light:"#33b5e5",
+    task_info_dark:"#0099CC",
+    task_load_gray:'rgba(117, 117, 117, 0.5)',
+    task_elegant:"#2e2e2e",
+    task_elegant_dark:"#212121",
+    task_stylish:"#4B515D",
+    task_stylish_dark:"#3E4551",
+    task_unique:"#3F729B",
+    task_unique_dark:"#1C2331",
+    task_special:"#37474F",
+    task_special_dark:"#263238",
+};

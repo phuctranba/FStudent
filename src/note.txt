@@ -1,0 +1,1 @@
+use Proguard with fastimage
