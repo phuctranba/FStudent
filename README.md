@@ -18,10 +18,10 @@ Application to support students in learning and practice
 * [React Native Snap Carousel](https://github.com/meliorence/react-native-snap-carousel)
 
 ## Screen Shot
-| <img src="./src/ScreenShot/signin.png" width="300"> | <img src="./src/ScreenShot/signup.png" width="300"> | <img src="./src/ScreenShot/reset_passwrod.png" width="300"> |
+| <img src="./src/ScreenShot/signin.png" width="262"> | <img src="./src/ScreenShot/signup.png" width="262"> | <img src="./src/ScreenShot/reset_passwrod.png" width="262"> |
 | - | - | - |
 
-| <img src="./src/ScreenShot/chat.png" width="220"> | <img src="./src/ScreenShot/books.png" width="220"> | <img src="./src/ScreenShot/utils.png" width="220"> |<img src="./src/ScreenShot/settings.png" width="220"> |
+| <img src="./src/ScreenShot/chat.png" width="190"> | <img src="./src/ScreenShot/books.png" width="190"> | <img src="./src/ScreenShot/utils.png" width="190"> |<img src="./src/ScreenShot/settings.png" width="190"> |
 | - | - | - | - |
 
 
